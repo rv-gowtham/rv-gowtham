@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
 - ☕ Others: Java, Git & GitHub, Figma
 
 💻 Projects
+
 🔹 [🌦️ Clear – Real-Time Weather App](https://clear-rv.vercel.app)  
 A sleek weather app built using React.js and OpenWeatherMap API. It provides real-time weather updates including temperature, humidity, and wind speed in any city across the globe.  
 Tech Stack: React.js, Bootstrap, OpenWeatherMap API  
