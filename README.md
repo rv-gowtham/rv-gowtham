@@ -21,7 +21,7 @@ I'm open to collaboration, internship opportunities, or just a chat about tech.
 - 💼 [LinkedIn](https://www.linkedin.com/in/rv-gowtham/)
 - 📨 Email: rvgowtham6@gmail.com
 - 🔗 GitHub: [@rv-gowtham](https://github.com/rv-gowtham)
-- 
+
 🌱 What I'm Working On
 - Building more full-stack applications
 - Diving deeper into advanced React patterns and backend scaling
